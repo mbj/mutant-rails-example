@@ -1,6 +1,6 @@
 integration: rspec
 requires:
-- ./config/environment.rb
+- ./config/boot.rb
 matcher:
   subjects:
   - MyApp*
