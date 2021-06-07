@@ -1,0 +1,6 @@
+integration: rspec
+requires:
+- ./config/environment.rb
+matcher:
+  subjects:
+  - MyApp*
